@@ -1,2 +1,22 @@
-# SignSpeak_Arabic_SignLang_Translator_Software
-SignSpeak is an AI-powered Arabic Sign Language translation system that uses computer vision and machine learning to convert hand gestures into real-time Arabic text and speech. The project was developed as a capstone project to improve accessibility and communication for deaf and hard-of-hearing individuals in Arabic-speaking communities.
+# SignSpeak
+SignSpeak is an AI-powered Arabic Sign Language (ArSL) translation system developed as a capstone project for the Information Systems program.
+The system uses computer vision and machine learning to recognize Arabic sign language gestures through a webcam and translate them into Arabic text and speech in real time.
+
+## Features
+* Real-time Arabic Sign Language recognition
+* Arabic text and speech output
+* Educational learning mode
+* Session recording functionality
+* Camera-based interaction
+* Machine learning powered gesture classification
+
+## Technologies
+* Python
+* TensorFlow
+* OpenCV
+* MediaPipe
+* NumPy
+* gTTS
+
+## Project Team
+Developed as a capstone project by Information Systems students at the American University of Kuwait.
